@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{FINANCE 751 Technical Note}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Installation}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Transcript Extraction}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Implementation}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Variables}{subsection.1.3}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Prepare\137documents.py}{subsection.1.3}% 6
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Perform\137stanford\137nlp.py}{subsection.1.3}% 7
+\BOOKMARK [3][-]{subsubsection.1.3.4}{Compare\137results.py}{subsection.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.4}{Comparison}{section.1}% 9
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Accuracy Measures}{subsection.1.4}% 10
+\BOOKMARK [3][-]{subsubsection.1.4.2}{Results}{subsection.1.4}% 11
+\BOOKMARK [2][-]{subsection.1.5}{Appendix}{section.1}% 12
+\BOOKMARK [3][-]{subsubsection.1.5.1}{Transcripts with Multiple Q\046A Sections}{subsection.1.5}% 13
+\BOOKMARK [3][-]{subsubsection.1.5.2}{Result Matrix}{subsection.1.5}% 14
+\BOOKMARK [3][-]{subsubsection.1.5.3}{Python}{subsection.1.5}% 15

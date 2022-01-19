@@ -1,0 +1,76 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{li2021measuring}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=4838f7fdd28d5cefb28f3b3c734976d4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d1a99677b7dfcd5d884ba7d2329f4965}{%
+           family={Mai},
+           familyi={M\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=45b0521325076ed5402be04bfa201f93}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a9babb4986761bfaa228cdd1ba83963c}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Xinyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b3f698a3666c5669ec9d523ad2dd1389}
+      \strng{fullhash}{5ee5da3078c3cf1d02545e912c9565e1}
+      \strng{bibnamehash}{5ee5da3078c3cf1d02545e912c9565e1}
+      \strng{authorbibnamehash}{5ee5da3078c3cf1d02545e912c9565e1}
+      \strng{authornamehash}{b3f698a3666c5669ec9d523ad2dd1389}
+      \strng{authorfullhash}{5ee5da3078c3cf1d02545e912c9565e1}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Financial Studies}
+      \field{number}{7}
+      \field{title}{Measuring corporate culture using machine learning}
+      \field{volume}{34}
+      \field{year}{2021}
+      \field{pages}{3265\bibrangedash 3315}
+      \range{pages}{51}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
